@@ -4,7 +4,7 @@
 pip install -r requirement.txt
 ```
 
-2. pretrain model 可去以下的google 雲端連結下載 [**GoogleDrive**](https://drive.google.com/file/d/1IG3HdpcRiDoWNookbncQjeaPN28t90yW/view?usp=sharing) or [**Baidu Pan(提取码：chgd)**](https://pan.baidu.com/s/1BYT5Ts6BxwpB8_l2sAyCkw)model and put it into the directory: ```./saved_models/u2net_portrait/```.
+2. pretrain model 可去以下的google 雲端連結下載 [**GoogleDrive**](https://drive.google.com/file/d/1D1eeuuwbccx86rosb1DuWnRRDjwySaC9/view?usp=sharing) 
 
 3. 訓練模型 <br/>
 (1)在u2net_train.py的這隻程式中的53行位置可修改train image 和 mask label image 的位置<br/>

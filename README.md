@@ -1,4 +1,4 @@
-### Usage for portrait generation
+
 1. 建置好新環境並切換到檔案路徑下後輸入以下指令可快速安裝套件
 ```
 pip install -r requirement.txt

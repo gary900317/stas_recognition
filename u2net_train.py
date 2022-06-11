@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
     model_dir = os.path.join(os.getcwd(), 'saved_models', model_name + os.sep)#設定模型路徑
 
-    epoch_num = 100000#設定epoch數
+    epoch_num = 100#設定epoch數
     batch_size_train = 15#設定batch_size大小
     batch_size_val = 1
     train_num = 0
